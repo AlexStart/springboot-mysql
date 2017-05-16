@@ -40,7 +40,7 @@ public class UserRepositoryTest {
     //TODO :
     @Test
     public void saveUserTest() {
-       /* User user = new User();
+        User user = new User();
         user.setFirstName("First Name");
         user.setLastName("Last Name");
         user.setAge(100);
@@ -49,7 +49,7 @@ public class UserRepositoryTest {
 
         userRepository.save(user);
 
-        assertNotNull(user.getId());*/
+        assertNotNull(user.getId());
 
     }
 

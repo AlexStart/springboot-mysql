@@ -14,8 +14,14 @@ http://www.dineshonjava.com/2016/08/working-with-sql-databases-in-spring-boot-ap
 78.5.1 Execute Flyway database migrations on startup
 https://docs.spring.io/spring-boot/docs/current/reference/html/howto-database-initialization.html
 
+Running Database Migrations for Java Apps
+https://devcenter.heroku.com/articles/running-database-migrations-for-java-apps
+
 spring-projects/spring-boot
 https://github.com/spring-projects/spring-boot/tree/v1.5.3.RELEASE/spring-boot-samples/spring-boot-sample-flyway
+
+SpringBoot and Database migrations with FlyWay
+https://www.youtube.com/watch?v=_7BuLOCRJc4
 
 ############################ USING MYSQL IN SPRING BOOT ###########################
 
