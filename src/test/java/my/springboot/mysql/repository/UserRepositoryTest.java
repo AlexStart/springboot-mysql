@@ -25,7 +25,7 @@ import static org.junit.Assert.assertNull;
 @DataJpaTest
 @AutoConfigureTestDatabase(connection = EmbeddedDatabaseConnection.H2)
 //@AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)
-@ActiveProfiles("test")
+//@ActiveProfiles("test")
 //@SpringBootTest(classes = SpringbootMysqlApplication.class)
 public class UserRepositoryTest {
 

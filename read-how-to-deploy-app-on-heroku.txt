@@ -1,5 +1,7 @@
 @@@ Setting active profile and config location from command line in spring boot @@@@
 
+web java -Dspring.profiles.active=test -jar target/*.jar
+
 java -jar -Dspring.profiles.active=[yourProfileName] target/[yourJar].jar
 
 When setting the profile via the Maven plugin you must do it via run.jvmArguments
